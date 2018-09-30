@@ -5,7 +5,11 @@ public class CGADIndiv01 {
 
 
    public static void main(String [] args) {
-        System.out.println("Antonio David Cabrera Gomez");
+        String Hola;
+        Hola = "Antonio David Cabrera Gomez";
+        System.out.println(Hola);
+        Hola = "13";
+        System.out.println(13);
     }
     
 }
