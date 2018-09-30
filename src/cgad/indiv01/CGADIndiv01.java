@@ -10,6 +10,7 @@ public class CGADIndiv01 {
         System.out.println(Hola);
         Hola = "13";
         System.out.println(13);
+       
     }
     
 }
